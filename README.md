@@ -18,6 +18,6 @@
 
 ## 3. Career
 
-### <b>Lotte Giants</b>
+### <b>1) Lotte Giants</b>
   * Data Engineer(2021.11~Current)
   * Intern(2021.02~2021.10)
