@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20My%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome%0aMy%20Github&fontSize=90&animation=blinking)
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wh0509.visitor-badge&left_text=MyPageVisitors)
