@@ -1,16 +1,25 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20My%20Github&fontSize=90)
 
-<!--
-**wh0509/wh0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wh0509.visitor-badge&left_text=MyPageVisitors)
+[![GitHub followers](https://img.shields.io/github/followers/wh0509.svg?style=social&label=Follow)](https://github.com/wh0509?tab=followers)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Introduction
+## 1. Name
+
+* Korean name : 조형석
+* Eng Name : Cho Hyeong Seok
+
+## 2. Degree
+
+* Bachelor : Computer Science & Information, KOREA NATIONAL UNIVERSITY OF TRANSPORTATION
+* Master : Sport Recording and Analysis, Graduate School of Records, Archives & Information Science, Myongji University
+* Thesis : <a href='http://www.riss.kr/link?id=T15798525'>Analysis of the swing selection propensity of MLB hitters according to swing zone</a>
+
+## 3. Career
+
+### <b>Lotte Giants</b>
+  * Intern(2021.02~2021.10)
+  * Data Engineer(2021.11~Current)
+
+### 
