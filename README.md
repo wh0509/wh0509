@@ -4,7 +4,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wh0509.visitor-badge&left_text=MyPageVisitors)
 [![GitHub followers](https://img.shields.io/github/followers/wh0509.svg?style=social&label=Follow)](https://github.com/wh0509?tab=followers)
 
-# Introduction
+# Profile
 ## 1. Name
 
 * Korean name : 조형석
@@ -21,3 +21,7 @@
 ### <b>1) Lotte Giants</b>
   * Data Engineer(2021.11~Current)
   * Intern(2021.02~2021.10)
+
+## 4. MBTI
+
+### <b>ISFJ</b>
