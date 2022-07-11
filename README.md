@@ -19,7 +19,7 @@
 ## 3. Career
 
 ### <b>1) Lotte Giants</b>
-  * Data Engineer(2021.11~Current)
+  * DataBase Adiministrator(2021.11~Current)
   * Intern(2021.02~2021.10)
 
 ## 4. MBTI
