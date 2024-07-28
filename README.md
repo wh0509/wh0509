@@ -19,9 +19,9 @@
 ## 3. Career
 
 ### <b>1) Lotte Giants</b>
-  * DataBase Administrator(2021.11~Current)
+  * Data Engineer(2022.04 ~ Current)
   * Intern(2021.02~2021.10)
 
 ## 4. MBTI
 
-  * <b><a href='https://www.16personalities.com/isfj-personality'>ISFJ</a></b>
+  * <b><a href='https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-istj'>ISTJ</a></b>
